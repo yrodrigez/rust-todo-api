@@ -1,7 +1,7 @@
 ## Quick DEV
 POST http://127.0.0.1:8080/todos/
 Content-Type: application/json
-X-Auth-Token: tronco
+X-Auth-Token: tronco.exp.signature
 
 {
     "tronco": "yes"
